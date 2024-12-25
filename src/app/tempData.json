@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": "P001",
+      "tier": 0,
+      "name": "John Doe",
+      "address": "123 Patient Street, Mumbai",
+      "dob": "1990-05-15",
+      "gender": "Male",
+      "udid": "UD123456",
+      "phone": "9004715217",
+      "email": "john.doe@example.com",
+      "bloodGroup": "O+",
+      "admitted": false,
+      "allergies": ["Pollen", "Penicillin"],
+      "consultations": ["C001"],
+      "cases": ["CS001"],
+      "transactions": ["T001"],
+      "slotId": "S001",
+      "slotPriority": 3,
+      "bedPriority": null,
+      "password": "hashedPassword123"
+    },
+    {
+      "id": "D001",
+      "tier": 1,
+      "name": "Dr. Sarah",
+      "address": "456 Doctor Avenue, Mumbai",
+      "dob": "1985-08-20",
+      "gender": "Female",
+      "phone": "9876543210",
+      "email": "dr.sarah@hospital.com",
+      "password": "hashedPassword456",
+      "departmentIds": ["DEP001", "DEP002"],
+      "hospitals": [
+        {
+          "id": "H001",
+          "name": "City Hospital",
+          "address": "789 Hospital Road, Mumbai"
+        },
+        {
+          "id": "H002",
+          "name": "Medicare Center",
+          "address": "321 Care Lane, Mumbai"
+        }
+      ]
+    },
+    {
+      "id": "HS001",
+      "tier": 2,
+      "name": "Mike Johnson",
+      "email": "mike.staff@hospital.com",
+      "phone": "9876543211",
+      "password": "hashedPassword789",
+      "departmentIds": ["DEP001"],
+      "hospitals": [
+        {
+          "id": "H001",
+          "name": "City Hospital",
+          "address": "789 Hospital Road, Mumbai"
+        }
+      ]
+    },
+    {
+      "id": "HA001",
+      "tier": 3,
+      "name": "Admin User",
+      "email": "admin@hospital.com",
+      "phone": "9876543212",
+      "password": "hashedPasswordABC",
+      "hospitals": [
+        {
+          "id": "H001",
+          "name": "City Hospital",
+          "address": "789 Hospital Road, Mumbai"
+        }
+      ]
+    },
+    {
+      "id": "SA001",
+      "tier": 4,
+      "name": "System Admin",
+      "email": "sysadmin@medlink.com",
+      "password": "hashedPasswordXYZ"
+    }
+  ]
+}

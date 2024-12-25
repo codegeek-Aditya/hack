@@ -1,0 +1,30 @@
+2024-12-11 12:31:51,921 - INFO - RandomForest - Best Parameters: {'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 300}
+2024-12-11 12:31:54,899 - INFO - GradientBoosting - Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+2024-12-11 12:31:56,780 - INFO - XGBoost - Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+2024-12-11 12:31:57,101 - INFO - Model Performance:
+2024-12-11 12:31:57,101 - INFO - Mean Squared Error: 3064626.570678677
+2024-12-11 12:31:57,101 - INFO - Mean Absolute Error: 1169.5320417696191
+2024-12-11 12:31:57,132 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 12:31:57,132 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-11 12:31:57,137 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-11 12:32:22,583 - INFO - RandomForest - Best Parameters: {'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 300}
+2024-12-11 12:32:25,476 - INFO - GradientBoosting - Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+2024-12-11 12:32:27,309 - INFO - XGBoost - Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+2024-12-11 12:32:27,633 - INFO - Model Performance:
+2024-12-11 12:32:27,633 - INFO - Mean Squared Error: 3064626.570678677
+2024-12-11 12:32:27,633 - INFO - Mean Absolute Error: 1169.5320417696191
+2024-12-11 12:32:27,642 - WARNING -  * Debugger is active!
+2024-12-11 12:32:27,642 - INFO -  * Debugger PIN: 879-919-524
+2024-12-11 12:33:51,649 - INFO - RandomForest - Best Parameters: {'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 300}
+2024-12-11 12:33:54,672 - INFO - GradientBoosting - Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+2024-12-11 12:33:56,559 - INFO - XGBoost - Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+2024-12-11 12:33:56,897 - INFO - Model Performance:
+2024-12-11 12:33:56,897 - INFO - Mean Squared Error: 3064626.570678677
+2024-12-11 12:33:56,897 - INFO - Mean Absolute Error: 1169.5320417696191
+2024-12-11 12:33:56,929 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 12:33:56,929 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-11 12:33:56,936 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-11 12:34:25,197 - INFO - RandomForest - Best Parameters: {'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 300}
+2024-12-11 12:34:28,984 - INFO - GradientBoosting - Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}

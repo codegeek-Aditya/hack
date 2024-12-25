@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Khula:wght@300;400;600;700;800&display=swap");
+@import "mapbox-gl/dist/mapbox-gl.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+nextjs-portal {
+  display: none;
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%; /* White */
+    --foreground: 222.2 84% 4.9%; /* Very Dark Blue */
+    --card: 0 0% 100%; /* White */
+    --card-foreground: 222.2 84% 4.9%; /* Very Dark Blue */
+    --popover: 0 0% 100%; /* White */
+    --popover-foreground: 222.2 84% 4.9%; /* Very Dark Blue */
+    --primary: 221.2 83.2% 53.3%; /* Bright Blue */
+    --primary-foreground: 210 40% 98%; /* Very Light Blue */
+    --secondary: 210 40% 96.1%; /* Light Gray Blue */
+    --secondary-foreground: 222.2 47.4% 11.2%; /* Dark Blue */
+    --muted: 210 40% 96.1%; /* Light Gray Blue */
+    --muted-foreground: 215.4 16.3% 46.9%; /* Medium Gray Blue */
+    --accent: 210 40% 96.1%; /* Light Gray Blue */
+    --accent-foreground: 222.2 47.4% 11.2%; /* Dark Blue */
+    --destructive: 0 84.2% 60.2%; /* Bright Red */
+    --destructive-foreground: 210 40% 98%; /* Very Light Blue */
+    --border: 214.3 31.8% 91.4%; /* Very Light Gray Blue */
+    --input: 214.3 31.8% 91.4%; /* Very Light Gray Blue */
+    --ring: 221.2 83.2% 53.3%; /* Bright Blue */
+    --radius: 0.5rem;
+    --chart-1: 12 76% 61%; /* Coral Red */
+    --chart-2: 173 58% 39%; /* Teal */
+    --chart-3: 197 37% 24%; /* Dark Blue Green */
+    --chart-4: 43 74% 66%; /* Golden Yellow */
+    --chart-5: 27 87% 67%; /* Orange */
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 217.2 91.2% 59.8%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 224.3 76.3% 48%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+
+.scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  background-color: #b0b2b5;
+  border-radius: 5px;
+}

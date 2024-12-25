@@ -1,0 +1,362 @@
+Month_name,Item_name,Amount,Month_Numeric,Item_Encoded
+January,Blood Tubes,12000.0,1.0,4.0
+January,Microscope_slides,8000.0,1.0,21.0
+January,Lab_Coats,1500.0,1.0,17.0
+January,Goggles,1200.0,1.0,16.0
+January,Reagents,1200.0,1.0,26.0
+January,Gloves,55000.0,1.0,15.0
+January,Masks,45000.0,1.0,20.0
+January,Syringe,22000.0,1.0,27.0
+January,Bandage,6000.0,1.0,2.0
+January,Cotton Rolls,18000.0,1.0,10.0
+January,Oxygen Cylinder,2000.0,1.0,24.0
+January,Ventilators,35.0,1.0,28.0
+January,CPAP Machine,40.0,1.0,6.0
+January,Nascal Cannulas,12000.0,1.0,22.0
+January,Pulse Oximeters,900.0,1.0,25.0
+January,ORS Packs,20000.0,1.0,23.0
+January,Electral Powder,10000.0,1.0,14.0
+January,Dolo-650,15000.0,1.0,12.0
+January,Brufen,8000.0,1.0,5.0
+January,Cetirizine,8000.0,1.0,8.0
+January,Loperamide,5000.0,1.0,19.0
+January,Crocin ,35000.0,1.0,11.0
+January,Benadryl,2000.0,1.0,3.0
+January,Chlorpheniramine,4000.0,1.0,9.0
+January,Limcee,10000.0,1.0,18.0
+January,Augmentin,4000.0,1.0,0.0
+January,Domstal,8000.0,1.0,13.0
+January,Candid,5000.0,1.0,7.0
+January,Azithral,3000.0,1.0,1.0
+February,Blood Tubes,12000.0,2.0,4.0
+February,Microscope_slides,8000.0,2.0,21.0
+February,Lab_Coats,1500.0,2.0,17.0
+February,Goggles,1200.0,2.0,16.0
+February,Reagents,1200.0,2.0,26.0
+February,Gloves,55000.0,2.0,15.0
+February,Masks,45000.0,2.0,20.0
+February,Syringe,22000.0,2.0,27.0
+February,Bandage,6000.0,2.0,2.0
+February,Cotton Rolls,18000.0,2.0,10.0
+February,Oxygen Cylinder,2000.0,2.0,24.0
+February,Ventilators,35.0,2.0,28.0
+February,CPAP Machine,40.0,2.0,6.0
+February,Nascal Cannulas,12000.0,2.0,22.0
+February,Pulse Oximeters,900.0,2.0,25.0
+February,ORS Packs,20000.0,2.0,23.0
+February,Electral Powder,10000.0,2.0,14.0
+February,Dolo-650,15000.0,2.0,12.0
+February,Brufen,8000.0,2.0,5.0
+February,Cetirizine,8000.0,2.0,8.0
+February,Loperamide,5000.0,2.0,19.0
+February,Crocin ,35000.0,2.0,11.0
+February,Benadryl,2000.0,2.0,3.0
+February,Chlorpheniramine,4000.0,2.0,9.0
+February,Limcee,10000.0,2.0,18.0
+February,Augmentin,4000.0,2.0,0.0
+February,Domstal,8000.0,2.0,13.0
+February,Candid,5000.0,2.0,7.0
+February,Azithral,3000.0,2.0,1.0
+March,Blood Tubes,15000.0,3.0,4.0
+March,Microscope_slides,10000.0,3.0,21.0
+March,Lab_Coats,2000.0,3.0,17.0
+March,Goggles,1500.0,3.0,16.0
+March,Reagents,1500.0,3.0,26.0
+March,Gloves,50000.0,3.0,15.0
+March,Masks,40000.0,3.0,20.0
+March,Syringe,20000.0,3.0,27.0
+March,Bandage,5000.0,3.0,2.0
+March,Cotton Rolls,15000.0,3.0,10.0
+March,Oxygen Cylinder,2500.0,3.0,24.0
+March,Ventilators,40.0,3.0,28.0
+March,CPAP Machine,50.0,3.0,6.0
+March,Nascal Cannulas,15000.0,3.0,22.0
+March,Pulse Oximeters,1000.0,3.0,25.0
+March,ORS Packs,20000.0,3.0,23.0
+March,Electral Powder,10000.0,3.0,14.0
+March,Dolo-650,15000.0,3.0,12.0
+March,Brufen,8000.0,3.0,5.0
+March,Cetirizine,8000.0,3.0,8.0
+March,Loperamide,5000.0,3.0,19.0
+March,Crocin ,35000.0,3.0,11.0
+March,Benadryl,2000.0,3.0,3.0
+March,Chlorpheniramine,4000.0,3.0,9.0
+March,Limcee,10000.0,3.0,18.0
+March,Augmentin,4000.0,3.0,0.0
+March,Domstal,8000.0,3.0,13.0
+March,Candid,5000.0,3.0,7.0
+March,Azithral,3000.0,3.0,1.0
+April,Blood Tubes,15000.0,4.0,4.0
+April,Microscope_slides,10000.0,4.0,21.0
+April,Lab_Coats,2000.0,4.0,17.0
+April,Goggles,1500.0,4.0,16.0
+April,Reagents,1500.0,4.0,26.0
+April,Gloves,50000.0,4.0,15.0
+April,Masks,40000.0,4.0,20.0
+April,Syringe,20000.0,4.0,27.0
+April,Bandage,5000.0,4.0,2.0
+April,Cotton Rolls,15000.0,4.0,10.0
+April,Oxygen Cylinder,2500.0,4.0,24.0
+April,Ventilators,40.0,4.0,28.0
+April,CPAP Machine,50.0,4.0,6.0
+April,Nascal Cannulas,15000.0,4.0,22.0
+April,Pulse Oximeters,1000.0,4.0,25.0
+April,ORS Packs,20000.0,4.0,23.0
+April,Electral Powder,10000.0,4.0,14.0
+April,Dolo-650,15000.0,4.0,12.0
+April,Brufen,8000.0,4.0,5.0
+April,Cetirizine,8000.0,4.0,8.0
+April,Loperamide,5000.0,4.0,19.0
+April,Crocin ,35000.0,4.0,11.0
+April,Benadryl,2000.0,4.0,3.0
+April,Chlorpheniramine,4000.0,4.0,9.0
+April,Limcee,10000.0,4.0,18.0
+April,Augmentin,4000.0,4.0,0.0
+April,Domstal,8000.0,4.0,13.0
+April,Candid,5000.0,4.0,7.0
+April,Azithral,3000.0,4.0,1.0
+May,Blood Tubes,15000.0,5.0,4.0
+May,Microscope_slides,10000.0,5.0,21.0
+May,Lab_Coats,2000.0,5.0,17.0
+May,Goggles,1500.0,5.0,16.0
+May,Reagents,1500.0,5.0,26.0
+May,Gloves,50000.0,5.0,15.0
+May,Masks,40000.0,5.0,20.0
+May,Syringe,20000.0,5.0,27.0
+May,Bandage,5000.0,5.0,2.0
+May,Cotton Rolls,15000.0,5.0,10.0
+May,Oxygen Cylinder,2500.0,5.0,24.0
+May,Ventilators,40.0,5.0,28.0
+May,CPAP Machine,50.0,5.0,6.0
+May,Nascal Cannulas,15000.0,5.0,22.0
+May,Pulse Oximeters,1000.0,5.0,25.0
+May,ORS Packs,20000.0,5.0,23.0
+May,Electral Powder,10000.0,5.0,14.0
+May,Dolo-650,15000.0,5.0,12.0
+May,Brufen,8000.0,5.0,5.0
+May,Cetirizine,8000.0,5.0,8.0
+May,Loperamide,5000.0,5.0,19.0
+May,Crocin ,35000.0,5.0,11.0
+May,Benadryl,2000.0,5.0,3.0
+May,Chlorpheniramine,4000.0,5.0,9.0
+May,Limcee,10000.0,5.0,18.0
+May,Augmentin,4000.0,5.0,0.0
+May,Domstal,8000.0,5.0,13.0
+May,Candid,5000.0,5.0,7.0
+May,Azithral,3000.0,5.0,1.0
+June,Blood Tubes,18000.0,6.0,4.0
+June,Microscope_slides,12000.0,6.0,21.0
+June,Lab_Coats,2500.0,6.0,17.0
+June,Goggles,1300.0,6.0,16.0
+June,Reagents,2000.0,6.0,26.0
+June,Gloves,45000.0,6.0,15.0
+June,Masks,35000.0,6.0,20.0
+June,Syringe,18000.0,6.0,27.0
+June,Bandage,7000.0,6.0,2.0
+June,Cotton Rolls,12000.0,6.0,10.0
+June,Oxygen Cylinder,3000.0,6.0,24.0
+June,Ventilators,45.0,6.0,28.0
+June,CPAP Machine,60.0,6.0,6.0
+June,Nascal Cannulas,18000.0,6.0,22.0
+June,Pulse Oximeters,12000.0,6.0,25.0
+June,ORS Packs,15000.0,6.0,23.0
+June,Electral Powder,8000.0,6.0,14.0
+June,Dolo-650,20000.0,6.0,12.0
+June,Brufen,10000.0,6.0,5.0
+June,Cetirizine,10000.0,6.0,8.0
+June,Loperamide,7000.0,6.0,19.0
+June,Crocin ,40000.0,6.0,11.0
+June,Benadryl,3000.0,6.0,3.0
+June,Chlorpheniramine,6000.0,6.0,9.0
+June,Limcee,12000.0,6.0,18.0
+June,Augmentin,8000.0,6.0,0.0
+June,Domstal,10000.0,6.0,13.0
+June,Candid,7000.0,6.0,7.0
+June,Azithral,6000.0,6.0,1.0
+July,Blood Tubes,18000.0,7.0,4.0
+July,Microscope_slides,12000.0,7.0,21.0
+July,Lab_Coats,2500.0,7.0,17.0
+July,Goggles,1300.0,7.0,16.0
+July,Reagents,2000.0,7.0,26.0
+July,Gloves,45000.0,7.0,15.0
+July,Masks,35000.0,7.0,20.0
+July,Syringe,18000.0,7.0,27.0
+July,Bandage,7000.0,7.0,2.0
+July,Cotton Rolls,12000.0,7.0,10.0
+July,Oxygen Cylinder,3000.0,7.0,24.0
+July,Ventilators,45.0,7.0,28.0
+July,CPAP Machine,60.0,7.0,6.0
+July,Nascal Cannulas,18000.0,7.0,22.0
+July,Pulse Oximeters,12000.0,7.0,25.0
+July,ORS Packs,15000.0,7.0,23.0
+July,Electral Powder,8000.0,7.0,14.0
+July,Dolo-650,20000.0,7.0,12.0
+July,Brufen,10000.0,7.0,5.0
+July,Cetirizine,10000.0,7.0,8.0
+July,Loperamide,7000.0,7.0,19.0
+July,Crocin ,40000.0,7.0,11.0
+July,Benadryl,3000.0,7.0,3.0
+July,Chlorpheniramine,6000.0,7.0,9.0
+July,Limcee,12000.0,7.0,18.0
+July,Augmentin,8000.0,7.0,0.0
+July,Domstal,10000.0,7.0,13.0
+July,Candid,7000.0,7.0,7.0
+July,Azithral,6000.0,7.0,1.0
+August,Blood Tubes,18000.0,8.0,4.0
+August,Microscope_slides,12000.0,8.0,21.0
+August,Lab_Coats,2500.0,8.0,17.0
+August,Goggles,1300.0,8.0,16.0
+August,Reagents,2000.0,8.0,26.0
+August,Gloves,45000.0,8.0,15.0
+August,Masks,35000.0,8.0,20.0
+August,Syringe,18000.0,8.0,27.0
+August,Bandage,7000.0,8.0,2.0
+August,Cotton Rolls,12000.0,8.0,10.0
+August,Oxygen Cylinder,3000.0,8.0,24.0
+August,Ventilators,45.0,8.0,28.0
+August,CPAP Machine,60.0,8.0,6.0
+August,Nascal Cannulas,18000.0,8.0,22.0
+August,Pulse Oximeters,12000.0,8.0,25.0
+August,ORS Packs,15000.0,8.0,23.0
+August,Electral Powder,8000.0,8.0,14.0
+August,Dolo-650,20000.0,8.0,12.0
+August,Brufen,10000.0,8.0,5.0
+August,Cetirizine,10000.0,8.0,8.0
+August,Loperamide,7000.0,8.0,19.0
+August,Crocin ,40000.0,8.0,11.0
+August,Benadryl,3000.0,8.0,3.0
+August,Chlorpheniramine,6000.0,8.0,9.0
+August,Limcee,12000.0,8.0,18.0
+August,Augmentin,8000.0,8.0,0.0
+August,Domstal,10000.0,8.0,13.0
+August,Candid,7000.0,8.0,7.0
+August,Azithral,6000.0,8.0,1.0
+September,Blood Tubes,18000.0,9.0,4.0
+September,Microscope_slides,12000.0,9.0,21.0
+September,Lab_Coats,2500.0,9.0,17.0
+September,Goggles,1300.0,9.0,16.0
+September,Reagents,2000.0,9.0,26.0
+September,Gloves,45000.0,9.0,15.0
+September,Masks,35000.0,9.0,20.0
+September,Syringe,18000.0,9.0,27.0
+September,Bandage,7000.0,9.0,2.0
+September,Cotton Rolls,12000.0,9.0,10.0
+September,Oxygen Cylinder,3000.0,9.0,24.0
+September,Ventilators,45.0,9.0,28.0
+September,CPAP Machine,60.0,9.0,6.0
+September,Nascal Cannulas,18000.0,9.0,22.0
+September,Pulse Oximeters,12000.0,9.0,25.0
+September,ORS Packs,15000.0,9.0,23.0
+September,Electral Powder,8000.0,9.0,14.0
+September,Dolo-650,20000.0,9.0,12.0
+September,Brufen,10000.0,9.0,5.0
+September,Cetirizine,10000.0,9.0,8.0
+September,Loperamide,7000.0,9.0,19.0
+September,Crocin ,40000.0,9.0,11.0
+September,Benadryl,3000.0,9.0,3.0
+September,Chlorpheniramine,6000.0,9.0,9.0
+September,Limcee,12000.0,9.0,18.0
+September,Augmentin,8000.0,9.0,0.0
+September,Domstal,10000.0,9.0,13.0
+September,Candid,7000.0,9.0,7.0
+September,Azithral,6000.0,9.0,1.0
+October,Blood Tubes,12000.0,10.0,4.0
+October,Microscope_slides,8000.0,10.0,21.0
+October,Lab_Coats,1500.0,10.0,17.0
+October,Goggles,1200.0,10.0,16.0
+October,Reagents,1200.0,10.0,26.0
+October,Gloves,55000.0,10.0,15.0
+October,Masks,45000.0,10.0,20.0
+October,Syringe,22000.0,10.0,27.0
+October,Bandage,6000.0,10.0,2.0
+October,Cotton Rolls,18000.0,10.0,10.0
+October,Oxygen Cylinder,2000.0,10.0,24.0
+October,Ventilators,35.0,10.0,28.0
+October,CPAP Machine,40.0,10.0,6.0
+October,Nascal Cannulas,12000.0,10.0,22.0
+October,Pulse Oximeters,900.0,10.0,25.0
+October,ORS Packs,20000.0,10.0,23.0
+October,Electral Powder,10000.0,10.0,14.0
+October,Dolo-650,15000.0,10.0,12.0
+October,Brufen,8000.0,10.0,5.0
+October,Cetirizine,8000.0,10.0,8.0
+October,Loperamide,5000.0,10.0,19.0
+October,Crocin ,35000.0,10.0,11.0
+October,Benadryl,2000.0,10.0,3.0
+October,Chlorpheniramine,4000.0,10.0,9.0
+October,Limcee,10000.0,10.0,18.0
+October,Augmentin,4000.0,10.0,0.0
+October,Domstal,8000.0,10.0,13.0
+October,Candid,5000.0,10.0,7.0
+October,Azithral,3000.0,10.0,1.0
+November,Blood Tubes,12000.0,11.0,4.0
+November,Microscope_slides,8000.0,11.0,21.0
+November,Lab_Coats,1500.0,11.0,17.0
+November,Goggles,1200.0,11.0,16.0
+November,Reagents,1200.0,11.0,26.0
+November,Gloves,55000.0,11.0,15.0
+November,Masks,45000.0,11.0,20.0
+November,Syringe,22000.0,11.0,27.0
+November,Bandage,6000.0,11.0,2.0
+November,Cotton Rolls,18000.0,11.0,10.0
+November,Oxygen Cylinder,2000.0,11.0,24.0
+November,Ventilators,35.0,11.0,28.0
+November,CPAP Machine,40.0,11.0,6.0
+November,Nascal Cannulas,12000.0,11.0,22.0
+November,Pulse Oximeters,900.0,11.0,25.0
+November,ORS Packs,20000.0,11.0,23.0
+November,Electral Powder,10000.0,11.0,14.0
+November,Dolo-650,15000.0,11.0,12.0
+November,Brufen,8000.0,11.0,5.0
+November,Cetirizine,8000.0,11.0,8.0
+November,Loperamide,5000.0,11.0,19.0
+November,Crocin ,35000.0,11.0,11.0
+November,Benadryl,2000.0,11.0,3.0
+November,Chlorpheniramine,4000.0,11.0,9.0
+November,Limcee,10000.0,11.0,18.0
+November,Augmentin,4000.0,11.0,0.0
+November,Domstal,8000.0,11.0,13.0
+November,Candid,5000.0,11.0,7.0
+November,Azithral,3000.0,11.0,1.0
+December,Blood Tubes,12000.0,12.0,4.0
+December,Microscope_slides,8000.0,12.0,21.0
+December,Lab_Coats,1500.0,12.0,17.0
+December,Goggles,1200.0,12.0,16.0
+December,Reagents,1200.0,12.0,26.0
+December,Gloves,55000.0,12.0,15.0
+December,Masks,45000.0,12.0,20.0
+December,Syringe,22000.0,12.0,27.0
+December,Bandage,6000.0,12.0,2.0
+December,Cotton Rolls,18000.0,12.0,10.0
+December,Oxygen Cylinder,2000.0,12.0,24.0
+December,Ventilators,35.0,12.0,28.0
+December,CPAP Machine,40.0,12.0,6.0
+December,Nascal Cannulas,12000.0,12.0,22.0
+December,Pulse Oximeters,900.0,12.0,25.0
+December,ORS Packs,20000.0,12.0,23.0
+December,Electral Powder,10000.0,12.0,14.0
+December,Dolo-650,15000.0,12.0,12.0
+December,Brufen,8000.0,12.0,5.0
+December,Cetirizine,8000.0,12.0,8.0
+December,Loperamide,5000.0,12.0,19.0
+December,Crocin ,35000.0,12.0,11.0
+December,Benadryl,2000.0,12.0,3.0
+December,Chlorpheniramine,4000.0,12.0,9.0
+December,Limcee,10000.0,12.0,18.0
+December,Augmentin,4000.0,12.0,0.0
+December,Domstal,8000.0,12.0,13.0
+December,Candid,5000.0,12.0,7.0
+December,Azithral,3000.0,12.0,1.0
+June,Dolo-650,15000.0,6.0,12.0
+June,Blood Tubes,15000.0,6.0,4.0
+June,Blood Tubes,15000.0,6.0,4.0
+June,Masks,40000.0,6.0,20.0
+June,Blood Tubes,15000.0,6.0,4.0
+June,Blood Tubes,15000.0,6.0,4.0
+June,Dolo-650,15000.0,6.0,12.0
+June,Dolo-650,15000.0,6.0,12.0
+June,Masks,40000.0,6.0,20.0
+June,Masks,35000.0,6.0,20.0
+September,Masks,35000.0,9.0,20.0
+May,Gloves,35000.0,5.0,15.0
+May,Gloves,35000.0,,

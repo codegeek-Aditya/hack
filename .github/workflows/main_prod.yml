@@ -1,0 +1,49 @@
+name: Deploy main to prod vercel
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js (version 22.11.0)
+        uses: actions/setup-node@v2
+        with:
+          node-version: "22.11.0"
+
+      - name: Install dependencies for Next.js
+        run: npm install
+
+      - name: Install dependencies for Flask
+        run: |
+          pip install -r src/ml_model/requirements.txt
+
+      - name: Install Vercel
+        run: |
+          npm install --global vercel@latest
+
+      - name: Deploy Next.js app to Vercel
+        id: vercel_deploy_nextjs
+        run: |
+          vercel --prod --token ${{ secrets.VERCEL_TOKEN }} --yes > nextjs_deployment.log
+          NEXTJS_URL=$(tail -n 1 nextjs_deployment.log)
+          echo "Next.js URL: $NEXTJS_URL"
+
+      - name: Deploy Flask app to Vercel
+        id: vercel_deploy_flask
+        run: |
+          vercel --prod --cwd src/ml_model --token ${{ secrets.VERCEL_TOKEN }} --yes > flask_deployment.log
+          FLASK_URL=$(tail -n 1 flask_deployment.log)
+          echo "Flask URL: $FLASK_URL"

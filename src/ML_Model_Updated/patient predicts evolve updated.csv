@@ -1,0 +1,134 @@
+Month,Department,Number
+January,General Surgery,1300
+January,Pediatrics,1600
+January,Gynecology,800
+January,Orthopedics,1100
+January,Dermatology,500
+January,Radiology,1100
+January,Psychiatry,650
+January,ENT,1100
+January,Ophthalmology,650
+January,Medicine,950
+January,Emergency Medicine,1350
+February,General Surgery,1200
+February,Pediatrics,1500
+February,Gynecology,800
+February,Orthopedics,1000
+February,Dermatology,500
+February,Radiology,1000
+February,Psychiatry,600
+February,ENT,1000
+February,Ophthalmology,600
+February,Medicine,950
+February,Emergency Medicine,1300
+March,General Surgery,1000
+March,Pediatrics,1400
+March,Gynecology,750
+March,Orthopedics,900
+March,Dermatology,450
+March,Radiology,950
+March,Psychiatry,600
+March,ENT,950
+March,Medicine,950
+March,Ophthalmology,550
+March,Medicine,950
+March,Emergency Medicine,1300
+April,General Surgery,1000
+April,Pediatrics,1300
+April,Gynecology,750
+April,Orthopedics,850
+April,Dermatology,450
+April,Radiology,900
+April,Psychiatry,550
+April,ENT,900
+April,Ophthalmology,500
+April,Medicine,950
+April,Emergency Medicine,1300
+May,General Surgery,950
+May,Pediatrics,1300
+May,Gynecology,700
+May,Orthopedics,850
+May,Dermatology,450
+May,Radiology,900
+May,Psychiatry,550
+May,ENT,900
+May,Ophthalmology,900
+May,Medicine,950
+May,Emergency Medicine,1250
+June,General Surgery,1300
+June,Pediatrics,1600
+June,Gynecology,800
+June,Orthopedics,1100
+June,Dermatology,600
+June,Radiology,1100
+June,Psychiatry,650
+June,ENT,1100
+June,Ophthalmology,650
+June,Medicine,950
+June,Emergency Medicine,1350
+July,General Surgery,1400
+July,Pediatrics,1700
+July,Gynecology,850
+July,Orthopedics,1200
+July,Dermatology,650
+July,Radiology,1100
+July,Psychiatry,700
+July,ENT,1100
+July,Ophthalmology,700
+July,Medicine,950
+July,Emergency Medicine,1500
+August,General Surgery,1500
+August,Pediatrics,1800
+August,Gynecology,900
+August,Orthopedics,1300
+August,Dermatology,700
+August,Radiology,1200
+August,Psychiatry,750
+August,ENT,1200
+August,Ophthalmology,750
+August,Medicine,950
+August,Emergency Medicine,1600
+September,General Surgery,1000
+September,Pediatrics,1400
+September,Gynecology,750
+September,Orthopedics,900
+September,Dermatology,500
+September,Radiology,900
+September,Psychiatry,600
+September,ENT,950
+September,Ophthalmology,550
+September,Medicine,950
+September,Emergency Medicine,1300
+October,General Surgery,1100
+October,Pediatrics,1500
+October,Gynecology,800
+October,Orthopedics,950
+October,Dermatology,550
+October,Radiology,950
+October,Psychiatry,650
+October,ENT,1000
+October,Ophthalmology,600
+October,Medicine,950
+October,Emergency Medicine,1400
+November,General Surgery,1100
+November,Pediatrics,1500
+November,Gynecology,800
+November,Orthopedics,950
+November,Dermatology,500
+November,Radiology,950
+November,Psychiatry,650
+November,ENT,1000
+November,Ophthalmology,600
+November,Medicine,950
+November,Emergency Medicine,1400
+December,General Surgery,1200
+December,Pediatrics,1500
+December,Gynecology,800
+December,Orthopedics,1000
+December,Dermatology,500
+December,Radiology,1000
+December,Psychiatry,600
+December,ENT,1000
+December,Ophthalmology,600
+December,Medicine,950
+December,Emergency Medicine,1300
